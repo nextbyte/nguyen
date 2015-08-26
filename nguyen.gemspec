@@ -20,6 +20,6 @@ Gem::Specification.new do |s|
   s.required_ruby_version     = '>= 2.0.0'
   s.required_rubygems_version = '>= 1.8.25'
 
-  s.add_runtime_dependency 'nokogiri', '~> 1.5'
+  s.add_runtime_dependency 'nokogiri', '~> 1.6'
   s.add_development_dependency 'minitest'
 end
